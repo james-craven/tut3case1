@@ -1,0 +1,62 @@
+/*
+   New Perspectives on HTML
+   Tutorial 3
+   Case Problem 1
+
+   ICI Text and Color Styles
+   Author: James Craven
+   Date:   10/02/2019
+
+   Filename:         c_styles.css
+   Supporting Files: none
+
+*/
+
+/* Body Styles */
+
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+/* header h1 Styles */
+
+header h1 {
+	color: yellow;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 28;
+	text-align: center;
+	letter-spacing: 20px;
+}
+
+/* article h2 Styles */
+
+article h2 {
+	font-size: 24px;
+	letter-spacing: 5px;
+	font-weight: normal;
+}
+
+/* article Styles */
+
+article {
+	text-align: justify;
+}
+
+/* strong keyword Class Styles */
+
+strong.keyword {
+	color: yellow;
+	font-weight: normal;
+}
+
+/* footer paragraph Styles */
+
+footer p {
+	text-align: center;
+}
+
+img[usemap] {
+	border-width: 0px;
+}
